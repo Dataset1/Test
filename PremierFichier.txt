@@ -1,3 +1,2 @@
 Hello 
-Hello tout le monde
-Hello tout seul
+"Hello tout le monde"
